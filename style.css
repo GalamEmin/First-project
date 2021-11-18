@@ -32,7 +32,7 @@
     align-items: center;
     line-height: 96px;
     width: 730px;
-    font-size: 102px; 
+    font-size: 102px;
     font-weight: bold;
     margin: 0 0 0 64px;
     color: #000000;
@@ -60,7 +60,7 @@
     left: 64px;
     text-decoration: none;
     bottom: 30px;
-    color: #8b8b8b; 
+    color: #8b8b8b;
     z-index: 3;
   }
 
@@ -95,7 +95,7 @@
     line-height: 1.2;
     width: 175px;
     font-size: 18px;
-    font-weight: normal;    
+    font-weight: normal;
     color: #2f80ed;
   }
 
@@ -171,7 +171,7 @@
 
   .table__heading {
     line-height: 1.15;
-    font-size: 24px;  
+    font-size: 24px;
     font-weight: bold;
     margin: 0 0 20px;
     color: #000000;
@@ -279,7 +279,7 @@
 
   .table__heading_theme_dark {
     line-height: 1.15;
-    font-size: 24px;  
+    font-size: 24px;
     font-weight: bold;
     margin: 0 0 20px;
     color: #ffffff;
@@ -324,7 +324,7 @@
   .footer__column_content_copyright {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;   
+    justify-content: space-between;
     align-items: flex-start;
     height: 100%;
   }
@@ -337,11 +337,9 @@
   }
 
   .footer__author {   
-    /* position: absolute; */
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
-    bottom: 30px;
     margin: 18px 0;
     color: #ffffff;
   }
@@ -369,9 +367,8 @@
 
   .footer__column-links {
     display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
     flex-direction: column;
+    align-items: flex-start;
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
@@ -381,22 +378,15 @@
 
   .footer__column-link {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    justify-content: flex-end;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
     text-decoration: none;
     color: #ffffff;
   }
 
   .footer__column_content_social {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     align-items: flex-start;
-    justify-content: space-between;
   }
 
   .footer__social-icon_Facebook {
